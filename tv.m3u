@@ -86,7 +86,7 @@ http://31.220.41.111:80/LiveEdge/ScienceUS/playlist.m3u8?token= timeout=10
 #EXTINF:-1 tvg-id="NBC-7" tvg-logo="nbc.png" group-title="U.S.A",[COLOR lightgreen][I][B] NBC East [/B][/I][/COLOR]
 http://31.220.40.100/LiveEdge/NBCNY/playlist.m3u8?token= timeout=10
 
-#EXTINF:-1 tvg-id="(Mountain)NBC" tvg-logo="nbc.png" group-title="U.S.A",[COLOR lightgreen][I][B] NBC West [/B][/I][/COLOR]
+#EXTINF:-1 tvg-id="(Mountain)NBC" tvg-name="(Mountain)NBC" tvg-logo="nbc.png" group-title="U.S.A",[COLOR lightgreen][I][B] NBC West [/B][/I][/COLOR]
 http://31.220.41.110:80/LiveEdge/NBCMIASD/playlist.m3u8?token= timeout=10
 
 #EXTINF:-1 tvg-id="NBC-7" tvg-logo="nbc.png" group-title="U.S.A",[COLOR lightgreen][I][B] NBC4 [/B][/I][/COLOR]
