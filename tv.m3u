@@ -86,7 +86,7 @@ http://31.220.41.111:80/LiveEdge/ScienceUS/playlist.m3u8?token= timeout=10
 #EXTINF:-1 tvg-id="NBC-7" tvg-logo="nbc.png" group-title="U.S.A",[COLOR lightgreen][I][B] NBC East [/B][/I][/COLOR]
 http://31.220.40.100/LiveEdge/NBCNY/playlist.m3u8?token= timeout=10
 
-#EXTINF:-1 tvg-id="NBC(west)" tvg-logo="nbc.png" group-title="U.S.A",[COLOR lightgreen][I][B] NBC West [/B][/I][/COLOR]
+#EXTINF:-1 tvg-id="(Mountain)NBC" tvg-logo="nbc.png" group-title="U.S.A",[COLOR lightgreen][I][B] NBC West [/B][/I][/COLOR]
 http://31.220.41.110:80/LiveEdge/NBCMIASD/playlist.m3u8?token= timeout=10
 
 #EXTINF:-1 tvg-id="NBC-7" tvg-logo="nbc.png" group-title="U.S.A",[COLOR lightgreen][I][B] NBC4 [/B][/I][/COLOR]
@@ -107,7 +107,7 @@ http://31.220.41.102:80/LiveEdge/HBOSignatureEastUS/playlist.m3u8?token= timeout
 #EXTINF:-1 tvg-logo="hbocomedy.png" tvg-id="HBO Comedy" group-title="U.S.A",[COLOR lightgreen][I][B] HBO Comedy [/B][/I][/COLOR]
 http://31.220.2.220:80/LiveEdge/HBOComedyEastUS/playlist.m3u8?token= timeout=10
 
-#EXTINF:-1 tvg-logo="hbo.png" tvg-id="HBO(west)" group-title="U.S.A",[COLOR lightgreen][I][B] HBO West [/B][/I][/COLOR]
+#EXTINF:-1 tvg-logo="hbo.png" tvg-id="(Mountain)HBO (West)" group-title="U.S.A",[COLOR lightgreen][I][B] HBO West [/B][/I][/COLOR]
 http://31.220.2.221:80/LiveEdge/HBOWestUS/playlist.m3u8?token= timeout=10
 
 #EXTINF:-1 tvg-logo="hbo2.png" tvg-id="HBO2" group-title="U.S.A",[COLOR lightgreen][I][B] HBO 2 West [/B][/I][/COLOR]
@@ -173,7 +173,7 @@ rtmp://rtmp.zerocast.tv:1935/redirect playpath=kbMD64czDshAmjDd4kxQ swfUrl=http:
 #EXTINF:-1 tvg-logo="showtime.png" tvg-id="Showtime" group-title="U.S.A",[COLOR lightgreen][I][B] Showtime East [/B][/I][/COLOR]
 http://31.220.41.103:80/LiveEdge/ShowtimeEastHD/playlist.m3u8?token= timeout=10
 
-#EXTINF:-1 tvg-logo="showtime.png" tvg-id="Showtime West) group-title="U.S.A",[COLOR lightgreen][I][B] Showtime West [/B][/I][/COLOR]
+#EXTINF:-1 tvg-logo="showtime.png" tvg-id="Showtime West)" group-title="U.S.A",[COLOR lightgreen][I][B] Showtime West [/B][/I][/COLOR]
 http://31.220.41.103:80/LiveEdge/ShowtimeWestUS/playlist.m3u8?token= timeout=10
 
 #EXTINF:-1 tvg-logo="showtimeshowcase.png" tvg-id="Showtime Showcase" group-title="U.S.A",[COLOR lightgreen][I][B] Showtime Showcase [/B][/I][/COLOR]
@@ -185,7 +185,7 @@ http://31.220.41.103:80/LiveEdge/ShowtimeExtremeEastUS/playlist.m3u8?token= time
 #EXTINF:-1 tvg-logo="showtimebeyond.png" tvg-id="Showtime Beyond" group-title="U.S.A",[COLOR lightgreen][I][B] Showtime Beyond [/B][/I][/COLOR]
 http://31.220.41.107:80/LiveEdge/ShowtimeBeyondEastUS/playlist.m3u8?token= timeout=10
 
-#EXTINF:-1 tvg-logo="showtimenext.png" tvg-id="Showtime Next" group-title="U.S.A",[COLOR lightgreen][I][B] Showtime Next [/B][/I][/COLOR]
+#EXTINF:-1 tvg-logo="showtimenext.png" tvg-id="Showtime Next East" group-title="U.S.A",[COLOR lightgreen][I][B] Showtime Next [/B][/I][/COLOR]
 http://31.220.2.220:80/LiveEdge/ShowtimeNextUS/playlist.m3u8?token= timeout=10
 
 #EXTINF:-1 tvg-logo="syfy.png" tvg-id="Syfy(USA)" group-title="U.S.A",[COLOR lightgreen][I][B] SyFy [/B][/I][/COLOR]
@@ -218,7 +218,7 @@ rtmp://rtmp.zerocast.tv:1935/redirect playpath=jvZXQUYQmlsPirfiVK1G swfUrl=http:
 #EXTINF:-1 tvg-logo="usa.png" tvg-id="USA Network" group-title="U.S.A",[COLOR lightgreen][I][B] USA Network [/B][/I][/COLOR]
 http://31.220.41.111:80/LiveEdge/USANetworkEastHD/playlist.m3u8?token= timeout=10
 
-#EXTINF:-1 tvg-id="" tvg-logo=”oxygen.png" group-title="U.S.A",[COLOR lightgreen][I][B] Oxygen [/B][/I][/COLOR]
+#EXTINF:-1 tvg-id="Oxygen" tvg-logo=”oxygen.png" group-title="U.S.A",[COLOR lightgreen][I][B] Oxygen [/B][/I][/COLOR]
 http://31.220.41.110:80/LiveEdge/OxygenSD/playlist.m3u8?token= timeout=10
 
 #EXTINF:-1 tvg-id="" tvg-logo="wetv.png" group-title="SPORTS",[COLOR lightgreen][I][B] WE TV [/B][/I][/COLOR]
@@ -418,13 +418,13 @@ http://-------------============================================================
 #EXTINF:-1 tvg-shift=-1 tvg-id="Sky Movies Premiere" tvg-logo="skypremier.png" group-title="MOVIES",[COLOR lime][B][I] Sky Movies Premiere [/I][/B][/COLOR]
 http://31.220.40.105:80/LiveEdge/movdisney.stream/playlist.m3u8?token=
 
-#EXTINF:-1 tvg-shift=-1 tvg-id="Sky Movies Drama & Romance" tvg-logo="skypremier+1.png" group-title="MOVIES",[COLOR lime][B][I] Sky Movies Premiere +1 [/I][/B][/COLOR]
+#EXTINF:-1 tvg-shift=-1 tvg-id="Sky Movies Drama & Romance" tvg-logo="skypremier+1.png" group-title="MOVIES",[COLOR lime][B][I] Sky Movies Drama & Romance [/I][/B][/COLOR]
 http://31.220.41.110:80/LiveEdge/movdrama.stream/playlist.m3u8?token=
 
 #EXTINF:-1 tvg-shift=-1 tvg-id="Sky Movies Action & Adventure" tvg-logo="skyaction.png" group-title="MOVIES",[COLOR lime][B][I] Sky Movies Action & Adventure [/I][/B][/COLOR]
 http://31.220.41.102:80/LiveEdge/movaction.stream/playlist.m3u8?token=
 
-#EXTINF:-1 tvg-shift=-1 tvg-id="Sky Movies Action & Adventure" tvg-logo="skyaction.png" group-title="MOVIES",[COLOR lime][B][I] Sky Movies Thriller [/I][/B][/COLOR]
+#EXTINF:-1 tvg-shift=-1 tvg-id="Sky Movies Crime & Thriller" tvg-logo="skyaction.png" group-title="MOVIES",[COLOR lime][B][I] Sky Movies Crime & Thriller [/I][/B][/COLOR]
 http://31.220.41.111:80/LiveEdge/movthriller.stream/playlist.m3u8?token=
 
 #EXTINF:-1 tvg-shift=-1 tvg-id="Sky Movies Comedy HD" tvg-logo="skycomedy.png" group-title="MOVIES",[COLOR lime][B][I] Sky Movies Comedy [/I][/B][/COLOR]
