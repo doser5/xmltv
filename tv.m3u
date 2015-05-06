@@ -4,7 +4,7 @@ rtmp://178.18.31.56:443/liverepeater playpath=194108 swfUrl=http://bernardotv.cl
 #EXTINF:-1,[COLOR blue][B] --|IPTV WITH 7 DAY EPG|-- [/B][/COLOR]
 rtmp://178.18.31.56:443/liverepeater playpath=194106 swfUrl=http://bernardotv.club/playertest.swf pageUrl=http://biggestplayer.me/index.php?id=191881&width=620&height=470 token=Fo5_n0w?U.rA6l3-70w47ch
 #EXTINF:-1,[COLOR red][B]  --------- | U.S.A | --------- [/B][/COLOR]
-rtmp://rtmp.zerocast.tv:1935/redirect playpath=sssaaaee swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf flashver=WIN/16,0,0,305 timeout=15 token=OOG17t.x#K9Vh#| live=1swfVfy=1 pageUrl=http://zerocast.tv/
+rtmp://rtmp.myhdcast.com/redirect playpath=sssaaaee swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf flashver=WIN/16,0,0,305 timeout=15 token=OOG17t.x#K9Vh#| live=1swfVfy=1 pageUrl=http://zerocast.tv/
 #EXTINF:-1,[COLOR maroon][B]|UPDATED 05/05/15 @6.00AM AEST|[/B][/COLOR]
 rtmp://rtmp.zerocast.tv:1935/redirect playpath=aassee swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf flashver=WIN/16,0,0,305 timeout=15 token=OOG17t.x#K9Vh#| live=1swfVfy=1 pageUrl=http://zerocast.tv/
 
@@ -48,7 +48,7 @@ rtmp://178.18.31.56:443/liverepeater playpath=194107 swfUrl=http://bernardotv.cl
 rtmp://178.18.31.56:443/liverepeater playpath=191906 swfUrl=http://bernardotv.club/playertest.swf pageUrl=http://biggestplayer.me/index.php?id=191881&width=620&height=470 token=Fo5_n0w?U.rA6l3-70w47ch
 
 #EXTINF:-1 tvg-logo="cbs.png" tvg-id="CBS-7" group-title="U.S.A",[COLOR lightgreen][I][B] CBS NY [/B][/I][/COLOR]
-rtmp://rtmp.zerocast.tv:1935/redirect playpath=Ger61uLQ4fedzvjRjrB7 swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf flashver=WIN/16,0,0,305 timeout=15 live=1swfVfy=1 pageUrl=http://zerocast.tv/ token=OOG17t.x#K9Vh#| tcUrl=
+rtmp://rtmp.zerocast.tv:1935/redirect playpath=Ger61uLQ4fedzvjRjrB7 swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf flashver=WIN/16,0,0,305 timeout=15 live=1swfVfy=1 pageUrl=http://zerocast.tv/ token=OOG17t.x#K9Vh#|
 
 #EXTINF:-1 tvg-id="CW11" tvg-logo="cw11.png" group-title="U.S.A",[B][I][COLOR lightgreen] CW11 [/B][/I][/COLOR]
 rtmp://178.18.31.56:443/liverepeater playpath=191909 swfUrl=http://bernardotv.club/playertest.swf pageUrl=http://biggestplayer.me/index.php?id=191881&width=620&height=470 token=Fo5_n0w?U.rA6l3-70w47ch
