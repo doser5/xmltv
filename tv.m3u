@@ -1,12 +1,12 @@
 #EXTM3U url-tvg=http://www.xmltvguide.info/iptv/guide.xml.gz m3uautoload=1 cache=0
 #EXTINF:-1,[COLOR purple][I][B]---|XMLTVGUIDE.INFO|---[/B][/I][/COLOR]
-rtmp://89.248.172.98:443/liveedge/ playpath=THREE99ss7 swfUrl=http://micast.tv/jwplayer/jwplayer.flash.swf pageUrl=http://micast.tv/chn.php?ch=THREE99ss7 conn=S:OK
+rtmp://cdn.totalplay.tv/stream playpath=z00087.stream swfUrl=http://imveoh.info/player/player.swf pageUrl=http://imveoh.info/embed.php?n=z00099 token=#ed%h0#w@1 timeout=10
 #EXTINF:-1,[COLOR blue][B] --|IPTV WITH 7 DAY EPG|-- [/B][/COLOR]
-rtmp://178.18.31.56:443/liverepeater playpath=194106 swfUrl=http://bernardotv.club/playertest.swf pageUrl=http://biggestplayer.me/index.php?id=191881&width=620&height=470 token=Fo5_n0w?U.rA6l3-70w47ch
+rtmp://cdn.totalplay.tv/stream playpath=z0008.stream swfUrl=http://imveoh.info/player/player.swf pageUrl=http://imveoh.info/embed.php?n=z00099 token=#ed%h0#w@1v timeout=10
 #EXTINF:-1,[COLOR red][B]  --------- | U.S.A | --------- [/B][/COLOR]
-rtmp://rtmp.myhdcast.com/redirect playpath=sssaaaee swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf flashver=WIN/16,0,0,305 timeout=15 token=OOG17t.x#K9Vh#| live=1swfVfy=1 pageUrl=http://zerocast.tv/
+rtmp://cdn.totalplay.tv/stream playpath=z00089.stream swfUrl=http://imveoh.info/player/player.swf pageUrl=http://imveoh.info/embed.php?n=z00099 token=#ed%h0#w@1 timeout=10
 #EXTINF:-1,[COLOR maroon][B]|UPDATED 05/05/15 @6.00AM AEST|[/B][/COLOR]
-rtmp://rtmp.zerocast.tv:1935/redirect playpath=aassee swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf flashver=WIN/16,0,0,305 timeout=15 token=OOG17t.x#K9Vh#| live=1swfVfy=1 pageUrl=http://zerocast.tv/
+rtmp://cdn.totalplay.tv/stream playpath=z00088.stream swfUrl=http://imveoh.info/player/player.swf pageUrl=http://imveoh.info/embed.php?n=z00099 token=#ed%h0#w@1 timeout=10
 
 #EXTINF:-1 tvg-id="DE A&E " tvg-logo="a&e.png" group-title="U.S.A",[COLOR lightgreen][I][B] A&E Europe [/B][/I][/COLOR]
 http://noscdn1.connectedviews.com:1935/live/sporttv3hd.stream/livestream.m3u8
@@ -15,25 +15,25 @@ http://noscdn1.connectedviews.com:1935/live/sporttv3hd.stream/livestream.m3u8
 rtmp://178.18.31.55:443/liverepeater playpath=191903 swfUrl=http://bernardotv.club/playertest.swf pageUrl=http://biggestplayer.me/stream.php?id=191903&width=620&height=470 token=Fo5_n0w?U.rA6l3-70w47ch timeout=15
 
 #EXTINF:-1 tvg-id="-ABC-2" tvg-logo="abc7.png" group-title="U.S.A",[COLOR lightgreen][I][B] ABC 7 [/B][/I][/COLOR]
-rtmp://rtmp.zerocast.tv:1935/redirect playpath=rGCi7bg0Qxvs8q7Sl13l swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf flashver=WIN/16,0,0,305 timeout=15 live=1swfVfy=1 pageUrl=http://zerocast.tv/ token=OOG17t.x#K9Vh#|
+rtmpe://192.99.44.196:1935/goLive playpath=rGCi7bg0Qxvs8q7Sl13l swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf flashver=WIN/16,0,0,305 timeout=15 live=1swfVfy=1 pageUrl=http://zerocast.tv/ token=OOG17t.x#K9Vh#|
 
 #EXTINF:-1 tvg-id="ABC Family" tvg-logo="abcfamily.png" group-title="U.S.A",[COLOR lightgreen][I][B] ABC Family [/B][/I][/COLOR]
-rtmp://rtmp.zerocast.tv:1935/redirect playpath=NyRerYqWuhRWGCsmb3f3 swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf flashver=WIN/16,0,0,305 timeout=15 live=1swfVfy=1 pageUrl=http://zerocast.tv/ token=OOG17t.x#K9Vh#|
+rtmpe://192.99.44.196:1935/goLive playpath=NyRerYqWuhRWGCsmb3f3 swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf flashver=WIN/16,0,0,305 timeout=15 live=1swfVfy=1 pageUrl=http://zerocast.tv/ token=OOG17t.x#K9Vh#|
 
 #EXTINF:-1 tvg-logo="amc.png" tvg-id="AMC" group-title="U.S.A",[COLOR lightgreen][I][B] AMC NY [/B][/I][/COLOR]
-rtmp://rtmp.zerocast.tv:1935/redirect playpath=TfRaaQx7deUAuncJwM047m swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf flashver=WIN/16,0,0,305 timeout=15 live=1swfVfy=1 pageUrl=http://zerocast.tv/ token=OOG17t.x#K9Vh#|
+rtmpe://192.99.44.196:1935/goLive playpath=TfRaaQx7deUAuncJwM047m swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf flashver=WIN/16,0,0,305 timeout=15 live=1swfVfy=1 pageUrl=http://zerocast.tv/ token=OOG17t.x#K9Vh#|
 
 #EXTINF:-1 tvg-logo="amc.png" tvg-id="AMC" group-title="U.S.A",[COLOR lightgreen][I][B] AMC [/B][/I][/COLOR]
 rtmp://178.18.31.56:443/liverepeater playpath=191904 swfUrl=http://bernardotv.club/playertest.swf pageUrl=http://biggestplayer.me/index.php?id=191881&width=620&height=470 token=Fo5_n0w?U.rA6l3-70w47ch
 
 #EXTINF:-1 tvg-logo="bravo.png" tvg-id="Bravo" group-title="U.S.A",[COLOR lightgreen][I][B] Bravo [/B][/I][/COLOR]
-rtmp://rtmp.zerocast.tv:1935/redirect playpath=bpVhPyJw4wqZW7W61yV76 swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf flashver=WIN/16,0,0,305 timeout=15 token=OOG17t.x#K9Vh#| live=1swfVfy=1 pageUrl=http://zerocast.tv/
+rtmpe://192.99.44.196:1935/goLive playpath=bpVhPyJw4wqZW7W61yV76 swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf flashver=WIN/16,0,0,305 timeout=15 token=OOG17t.x#K9Vh#| live=1swfVfy=1 pageUrl=http://zerocast.tv/
 
 #EXTINF:-1 tvg-logo="bravo.png" tvg-id="Bravo" group-title="U.S.A",[COLOR lightgreen][I][B] Bravo [/B][/I][/COLOR]
 rtmp://178.18.31.56:443/liverepeater playpath=191905 swfUrl=http://bernardotv.club/playertest.swf pageUrl=http://biggestplayer.me/index.php?id=191881&width=620&height=470 token=Fo5_n0w?U.rA6l3-70w47ch
 
 #EXTINF:-1 tvg-logo="cartoon.png" tvg-id="Cartoon Network(USA)" group-title="U.S.A",[COLOR lightgreen][I][B] Cartoon Network [/B][/I][/COLOR]
-rtmp://rtmp.zerocast.tv:1935/redirect playpath=08pydvp1b7ZwZb3a5TW1 swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf flashver=WIN/16,0,0,305 timeout=15 token=OOG17t.x#K9Vh#| live=1swfVfy=1 pageUrl=http://zerocast.tv/?a=3&b=6
+rtmpe://192.99.44.196:1935/goLive playpath=08pydvp1b7ZwZb3a5TW1 swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf flashver=WIN/16,0,0,305 timeout=15 token=OOG17t.x#K9Vh#| live=1swfVfy=1 pageUrl=http://zerocast.tv/?a=3&b=6
 
 #EXTINF:-1 tvg-id="Comedy Central(USA)" tvg-logo="comedychannel.png" group-title="U.S.A",[B][I][COLOR lightgreen] Comedy Central [/B][/I][/COLOR]
 rtmp://178.18.31.56:443/liverepeater playpath=191907 swfUrl=http://bernardotv.club/playertest.swf pageUrl=http://biggestplayer.me/index.php?id=191881&width=620&height=470 token=Fo5_n0w?U.rA6l3-70w47ch
@@ -48,16 +48,16 @@ rtmp://178.18.31.56:443/liverepeater playpath=194107 swfUrl=http://bernardotv.cl
 rtmp://178.18.31.56:443/liverepeater playpath=191906 swfUrl=http://bernardotv.club/playertest.swf pageUrl=http://biggestplayer.me/index.php?id=191881&width=620&height=470 token=Fo5_n0w?U.rA6l3-70w47ch
 
 #EXTINF:-1 tvg-logo="cbs.png" tvg-id="CBS-7" group-title="U.S.A",[COLOR lightgreen][I][B] CBS NY [/B][/I][/COLOR]
-rtmp://rtmp.zerocast.tv:1935/redirect playpath=Ger61uLQ4fedzvjRjrB7 swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf flashver=WIN/16,0,0,305 timeout=15 live=1swfVfy=1 pageUrl=http://zerocast.tv/ token=OOG17t.x#K9Vh#|
+rtmpe://192.99.44.196:1935/goLive playpath=Ger61uLQ4fedzvjRjrB7 swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf flashver=WIN/16,0,0,305 timeout=15 live=1swfVfy=1 pageUrl=http://zerocast.tv/ token=OOG17t.x#K9Vh#|
 
 #EXTINF:-1 tvg-id="CW11" tvg-logo="cw11.png" group-title="U.S.A",[B][I][COLOR lightgreen] CW11 [/B][/I][/COLOR]
 rtmp://178.18.31.56:443/liverepeater playpath=191909 swfUrl=http://bernardotv.club/playertest.swf pageUrl=http://biggestplayer.me/index.php?id=191881&width=620&height=470 token=Fo5_n0w?U.rA6l3-70w47ch
 
 #EXTINF:-1 tvg-logo="cw11.png" tvg-id="CW11" group-title="U.S.A",[COLOR lightgreen][I][B] CW11 [/B][/I][/COLOR]
-rtmp://rtmp.zerocast.tv:1935/redirect playpath=IWSyIjvWgHRCMM7MEJoZ swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf flashver=WIN/16,0,0,305 timeout=15 token=OOG17t.x#K9Vh#| live=1swfVfy=1 pageUrl=http://zerocast.tv/
+rtmpe://192.99.44.196:1935/goLive playpath=IWSyIjvWgHRCMM7MEJoZ swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf flashver=WIN/16,0,0,305 timeout=15 token=OOG17t.x#K9Vh#| live=1swfVfy=1 pageUrl=http://zerocast.tv/
 
 #EXTINF:-1 tvg-id="NBC-7" tvg-logo="nbc.png" group-title="U.S.A",[COLOR lightgreen][I][B] NBC4 [/B][/I][/COLOR]
-rtmp://rtmp.zerocast.tv:1935/redirect playpath=nbc01_augqlbj1 swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf flashver=WIN/16,0,0,305 timeout=15 token=OOG17t.x#K9Vh#| live=1swfVfy=1 pageUrl=http://zerocast.tv/
+rtmpe://192.99.44.196:1935/goLive playpath=nbc01_augqlbj1 swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf flashver=WIN/16,0,0,305 timeout=15 token=OOG17t.x#K9Vh#| live=1swfVfy=1 pageUrl=http://zerocast.tv/
 
 #EXTINF:-1 tvg-id="NBC-7" tvg-logo="nbc.png" group-title="U.S.A",[COLOR lightgreen][I][B] NBC4 [/B][/I][/COLOR]
 rtmp://178.18.31.56:443/liverepeater playpath=191915 swfUrl=http://bernardotv.club/playertest.swf pageUrl=http://biggestplayer.me/index.php?id=191881&width=620&height=470 token=Fo5_n0w?U.rA6l3-70w47ch
@@ -75,48 +75,52 @@ rtmpe://167.114.65.139:1935/goLive playpath=qKmzUdRhBM73njBBDFyL swfUrl=http://p
 rtmp://178.18.31.56:443/liverepeater playpath=191910 swfUrl=http://bernardotv.club/playertest.swf pageUrl=http://biggestplayer.me/index.php?id=191881&width=620&height=470 token=Fo5_n0w?U.rA6l3-70w47ch
 
 #EXTINF:-1 tvg-logo="fox5.png" tvg-id="FOX-5" group-title="U.S.A",[COLOR lightgreen][I][B] FOX-5[/B][/I][/COLOR]
-rtmp://rtmp.zerocast.tv:1935/redirect playpath=9pxGCtP3aEnJYgoBFFH8 swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf flashver=WIN/16,0,0,305 timeout=15 token=OOG17t.x#K9Vh#| live=1swfVfy=1 pageUrl=http://zerocast.tv/
+rtmpe://192.99.44.196:1935/goLive playpath=9pxGCtP3aEnJYgoBFFH8 swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf flashver=WIN/16,0,0,305 timeout=15 token=OOG17t.x#K9Vh#| live=1swfVfy=1 pageUrl=http://zerocast.tv/
 
 #EXTINF:-1 tvg-id="Fox News Channel" tvg-logo="foxnews.png" group-title="U.S.A", [B][I][COLOR lightgreen] FOX News [/B][/I][/COLOR]
 rtmp://178.18.31.56:443/liverepeater playpath=191911 swfUrl=http://bernardotv.club/playertest.swf pageUrl=http://biggestplayer.me/stream.php?id=191911&width=620&height=470 token=Fo5_n0w?U.rA6l3-70w47ch
 
 #EXTINF:-1 tvg-logo="fxhd.png" tvg-id="FX" group-title="U.S.A",[COLOR lightgreen][I][B] FX- [/B][/I][/COLOR]
-rtmp://rtmp.zerocast.tv:1935/redirect playpath=VCV8SViFVBv2nX5RQwKI swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf flashver=WIN/16,0,0,305 timeout=15 token=OOG17t.x#K9Vh#| live=1swfVfy=1 pageUrl=http://zerocast.tv/
+rtmpe://192.99.44.196:1935/goLive playpath=VCV8SViFVBv2nX5RQwKI swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf flashver=WIN/16,0,0,305 timeout=15 token=OOG17t.x#K9Vh#| live=1swfVfy=1 pageUrl=http://zerocast.tv/
 
 #EXTINF:-1 tvg-logo="fxhd.png" tvg-id="FX" group-title="U.S.A",[COLOR lightgreen][I][B] FX-HQ [/B][/I][/COLOR]
 rtmp://178.18.31.56:443/liverepeater playpath=191913 swfUrl=http://bernardotv.club/playertest.swf pageUrl=http://biggestplayer.me/index.php?id=191881&width=620&height=470 token=Fo5_n0w?U.rA6l3-70w47ch
 
 #EXTINF:-1 tvg-logo="mtv.png" tvg-id="MTV(USA)" group-title="U.S.A",[COLOR lightgreen][I][B] MTV [/B][/I][/COLOR]
-rtmp://rtmp.zerocast.tv:1935/redirect playpath=7U8HX14EnQVGCFy swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf flashver=WIN/16,0,0,305 timeout=15 token=OOG17t.x#K9Vh#| live=1swfVfy=1 pageUrl=http://zerocast.tv/
+rtmpe://192.99.44.196:1935/goLive playpath=7U8HX14EnQVGCFy swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf flashver=WIN/16,0,0,305 timeout=15 token=OOG17t.x#K9Vh#| live=1swfVfy=1 pageUrl=http://zerocast.tv/
 
 #EXTINF:-1 tvg-logo="nick.png" tvg-id="Nickelodeon" group-title="U.S.A",[COLOR lightgreen][I][B] Nickeloden [/B][/I][/COLOR]
-rtmp://rtmp.zerocast.tv:1935/redirect playpath=fCqfhb14WwwFbAsDbV3Z swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf flashver=WIN/16,0,0,305 timeout=15 token=OOG17t.x#K9Vh#| live=1swfVfy=1 pageUrl=http://zerocast.tv/
+rtmpe://192.99.44.196:1935/goLive playpath=fCqfhb14WwwFbAsDbV3Z swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf flashver=WIN/16,0,0,305 timeout=15 token=OOG17t.x#K9Vh#| live=1swfVfy=1 pageUrl=http://zerocast.tv/
 
 #EXTINF:-1 tvg-logo="showtime.png" tvg-id="Showtime" group-title="U.S.A",[COLOR lightgreen][I][B] Showtime [/B][/I][/COLOR]
-rtmp://rtmp.zerocast.tv:1935/redirect playpath=kbMD64czDshAmjDd4kxQ swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf flashver=WIN/16,0,0,305 timeout=15 token=OOG17t.x#K9Vh#| live=1swfVfy=1 pageUrl=http://zerocast.tv/
+rtmpe://192.99.44.196:1935/goLive playpath=kbMD64czDshAmjDd4kxQ swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf flashver=WIN/16,0,0,305 timeout=15 token=OOG17t.x#K9Vh#| live=1swfVfy=1 pageUrl=http://zerocast.tv/
 
 #EXTINF:-1 tvg-logo="syfy.png" tvg-id="Syfy(USA)" group-title="U.S.A",[COLOR lightgreen][I][B] SyFy [/B][/I][/COLOR]
-rtmp://rtmp.zerocast.tv:1935/redirect playpath=tPjsURqsVo4NSe23EhJP swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf flashver=WIN/16,0,0,305 timeout=15 live=1swfVfy=1 pageUrl=http://zerocast.tv/ token=OOG17t.x#K9Vh#| 
+rtmpe://192.99.44.196:1935/goLive playpath=tPjsURqsVo4NSe23EhJP swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf flashver=WIN/16,0,0,305 timeout=15 live=1swfVfy=1 pageUrl=http://zerocast.tv/ token=OOG17t.x#K9Vh#| 
 
 #EXTINF:-1 tvg-logo="tnt.png" tvg-name="TNT" group-title="U.S.A",[COLOR lightgreen][I][B] TNT [/B][/I][/COLOR]
 rtmp://start.uvcast.net/goLive/ playpath=tntibrod_g2k1nnx6 swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf pageUrl=http://www.uvcast.net/embedplayer.php?width=640&height=480&id=tntibrod&autoplay=true&strech=exactfit token=OOG17t.x#K9Vh#|
 
 #EXTINF:-1 tvg-logo="tnt.png" tvg-name="TNT" group-title="U.S.A",[COLOR lightgreen][I][B] TNT [/B][/I][/COLOR]
-rtmp://rtmp.zerocast.tv:1935/redirect playpath=Waz0WqvbqNHmt0gdzrsm swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf flashver=WIN/16,0,0,305 timeout=15 token=OOG17t.x#K9Vh#| live=1swfVfy=1 pageUrl=http://zerocast.tv/
+rtmpe://192.99.44.196:1935/goLive playpath=Waz0WqvbqNHmt0gdzrsm swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf flashver=WIN/16,0,0,305 timeout=15 token=OOG17t.x#K9Vh#| live=1swfVfy=1 pageUrl=http://zerocast.tv/
 
 #EXTINF:-1 tvg-logo="tnt.png" tvg-name="TNT" group-title="U.S.A",[COLOR lightgreen][I][B] TNT [/B][/I][/COLOR]
 rtmp://178.18.31.56:443/liverepeater playpath=191917 swfUrl=http://bernardotv.club/playertest.swf pageUrl=http://biggestplayer.me/index.php?id=191881&width=620&height=470 token=Fo5_n0w?U.rA6l3-70w47ch
 
 #EXTINF:-1 tvg-logo="tbs.png" tvg-name="TBS" group-title="U.S.A",[COLOR lightgreen][I][B] TBS [/B][/I][/COLOR]
-rtmp://rtmp.zerocast.tv:1935/redirect playpath=RhMi9RdAAt7fpq8H3qZh swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf flashver=WIN/16,0,0,305 timeout=15 token=OOG17t.x#K9Vh#| live=1swfVfy=1 pageUrl=http://zerocast.tv/
+rtmpe://192.99.44.196:1935/goLive playpath=RhMi9RdAAt7fpq8H3qZh swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf flashver=WIN/16,0,0,305 timeout=15 token=OOG17t.x#K9Vh#| live=1swfVfy=1 pageUrl=http://zerocast.tv/
 
 #EXTINF:-1 tvg-logo="usa.png" tvg-id="USA Network" group-title="U.S.A",[COLOR lightgreen][I][B] USA Network [/B][/I][/COLOR]
-rtmp://rtmp.zerocast.tv:1935/redirect playpath=jvZXQUYQmlsPirfiVK1G swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf flashver=WIN/16,0,0,305 timeout=15 token=OOG17t.x#K9Vh#| live=1swfVfy=1 pageUrl=http://zerocast.tv/
+rtmpe://192.99.44.196:1935/goLive playpath=jvZXQUYQmlsPirfiVK1G swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf flashver=WIN/16,0,0,305 timeout=15 token=OOG17t.x#K9Vh#| live=1swfVfy=1 pageUrl=http://zerocast.tv/
+
+#EXTINF:-1 tvg-logo=".png" tvg-id="" group-title="U.S.A",[COLOR lightgreen][I][B] USA TV [/B][/I][/COLOR]
+rtmp://cdn.totalplay.tv/stream playpath=z00091.stream swfUrl=http://imveoh.info/player/player.swf pageUrl=http://imveoh.info/embed.php?n=z00099 token=#ed%h0#w@1 timeout=10
+
 
 #EXTINF:-1,[COLOR red][B]     --------- | U.K | --------  [/B][/COLOR]
 rtmpe://l.mybeststream.xyz/r/ playpath=natgeopt401 swfUrl=http://mybeststream.xyz/NzhlODRiZDYzY2EyZGVkNzZjMTQ5YjYz/jwplayer.flash.swf live=1 pageUrl=http://mybeststream.xyz/?id=28642&width=555&height=435
 #EXTINF:-1,[COLOR maroon][B] -| UPDATED 18.04.15 |- [/B][/COLOR]
-rtmp://rtmp.zerocast.tv:1935/redirect playpath=YATOC2Fc0rYqZ7YjbOxJ swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf flashver=WIN/16,0,0,305 timeout=15 token=OOG17t.x#K9Vh#| live=1swfVfy=1 pageUrl=http://zerocast.tv/
+rtmpe://192.99.44.196:1935/goLive playpath=YATOC2Fc0rYqZ7YjbOxJ swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf flashver=WIN/16,0,0,305 timeout=15 token=OOG17t.x#K9Vh#| live=1swfVfy=1 pageUrl=http://zerocast.tv/
 
 #EXTINF:-1 tvg-shift=-1 tvg-id="BBC1" tvg-logo="bbc_one.png" group-title="UK",[COLOR aqua][B][I] BBC One [/I][/B][/COLOR]
 http://live-streamtv.de/live/stream/playlist.m3u8?page_id=7&auth=f35885309d34b3eaae3dd2b58c275017&c=bbc1
@@ -232,16 +236,17 @@ rtmpe://l.mybeststream.xyz/r/ swfUrl=http://mybeststream.xyz/NzE2YjcwODJhMjY5N2R
 #EXTINF:-1 tvg-shift=-1 tvg-logo="e4.png" tvg-id="E4" group-title="U.K",[COLOR aqua][I][B] E4 [/B][/I][/COLOR]
 http://live-streamtv.de/live/hlstv/edge/index.m3u8?page_id=16&auth=f35885309d34b3eaae3dd2b58c275017&c=e4
 
-#EXTINF:-1 tvg-shift=-1 tvg-id="BBC3" tvg-logo="bbc3.png" group-title="UK",[COLOR aqua][B][I] BBC Three [/I][/B][/COLOR]
-
 #EXTINF:-1 tvg-shift=-1 tvg-logo="e4.png" tvg-id="E4" group-title="U.K",[COLOR aqua][I][B] E4 [/B][/I][/COLOR]
 http://laganvpn12.plus.com:9981/stream/channelid/58
+
+#EXTINF:-1 tvg-shift=-1 tvg-logo="e4.png" tvg-id="E4" group-title="U.K",[COLOR aqua][I][B] E4 HD [/B][/I][/COLOR]
+ http://pebbles124-lh.akamaihd.net/i/e4_1@137789/master.m3u8|X-Forwarded-For=85.5.87.218
 
 #EXTINF:-1 tvg-shift=-1 tvg-logo="e4+1.png" tvg-id="E4 +1" group-title="U.K",[COLOR aqua][I][B] E4 +1 [/B][/I][/COLOR]
 http://laganvpn12.plus.com:9981/stream/channelid/23
 
 #EXTINF:-1 tvg-shift=-1 tvg-id="Film4 HD" tvg-logo="film4.png" group-title="UK",[COLOR aqua][B][I] Film4 [/B][/I][/COLOR]
-http://laganvpn12.plus.com:9981/stream/channelid/59
+http://pebbles124-lh.akamaihd.net/i/film4_1@137790/master.m3u8|X-Forwarded-For=85.5.87.218
 
 #EXTINF:-1 tvg-shift=-1 tvg-id="Film4 HD" tvg-logo="film4.png" group-title="UK",[COLOR aqua][B][I] Film4 HD [/B][/I][/COLOR]
 http://live-streamtv.de/live/hlstv/edge/index.m3u8?page_id=16&auth=f35885309d34b3eaae3dd2b58c275017&c=film4
@@ -368,6 +373,12 @@ http://103.242.13.67:5000/nn_live.ts?id=foxmovies-m-h
 #EXTINF:-1 tvg-shift=-7 tvg-id="FOX MOVIES PREMIUM HD[JKT]" tvg-logo="Foxmoviechannel.png" group-title="MOVIES",[I][B][COLOR lime] FOX Family Movies [/B][/I][/COLOR]
 http://188.93.18.238:1935/tv/1702/playlist.m3u8
 
+#EXTINF:-1 tvg-id="",[COLOR lime][I][B] Warner TV [/B][/I][/COLOR]
+rtmp://cdn.totalplay.tv/stream playpath=z00099.stream swfUrl=http://imveoh.info/player/player.swf pageUrl=http://imveoh.info/embed.php?n=z00099 token=#ed%h0#w@1
+
+#EXTINF:-1 tvg-id="",[COLOR lime][I][B] Cinemax [/B][/I][/COLOR]
+rtmp://cdn.totalplay.tv/stream playpath=z00098.stream swfUrl=http://imveoh.info/player/player.swf pageUrl=http://imveoh.info/embed.php?n=z00099 token=#ed%h0#w@1
+
 
 #EXTINF:-1,[COLOR red][B]-----------| Gloabal TV Channels | ---------- [/B][/COLOR]
 http://-------------------------------------------/----------------------------------------------------------------------------/1.m3u8
@@ -448,11 +459,11 @@ rtmp://41.242.151.4:80/live playpath=espnusxx swfUrl=http://p.jwpcdn.com/6/12/jw
 #EXTINF:-1 tvg-logo="espn2.png" tvg-name="ESPN2" group-title="SPORTS",[COLOR goldenrod][I][B] ESPN 2 USA [/B][/I][/COLOR]
 rtmp://41.242.151.4:80/live playpath=espn22 swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf live=1 pageUrl=http://reytv.co/embedo.php?live=espnusxx&vw=620&vh=490 token=%Zrey(nKa@#Z timeout=10
 
-#EXTINF:-1 tvg-logo="espn2.png" tvg-name="ESPN2" group-title="SPORTS",[COLOR goldenrod][I][B] ESPN 2 [/B][/I][/COLOR]
-rtmpe://l.mybeststream.xyz/r/ playpath=spne2937 swfUrl=http://mybeststream.xyz/NzJhYTQ5YTEzNjU4ZjEzZDRhMjUxNmQ4/jwplayer.flash.swf pageUrl=http://mybeststream.xyz
+#EXTINF:-1 tvg-logo="espn2.png" tvg-name="ESPN2" group-title="SPORTS",[COLOR goldenrod][I][B] ESPN 2 HD [/B][/I][/COLOR]
+rtmp://cdn.totalplay.tv/stream playpath=z00020.stream swfUrl=http://imveoh.info/player/player.swf pageUrl=http://imveoh.info/embed.php?n=z00099 token=#ed%h0#w@1 timeout=10
 
 #EXTINF:-1 tvg-shift=-1 tvg-id="beIN Sports" tvg-logo="bein.png" group-title="SPORTS",[COLOR goldenrod][I][B] BeIN Sports [/B][/I][/COLOR]
-rtmp://cdn.cast-tv.us/stream playpath=z00031.stream swfUrl=http://imveoh.info/player/player.swf pageUrl=http://imveoh.info/embed.php?n=z00099 token=#ed%h0#w@1
+rtmp://cdn.totalplay.tv/stream playpath=z00030.stream swfUrl=http://imveoh.info/player/player.swf pageUrl=http://imveoh.info/embed.php?n=z00099 token=#ed%h0#w@1 timeout=10
 
 #EXTINF:-1 tvg-shift=-1 tvg-id="beIN Sports" tvg-logo="bein.png" group-title="SPORTS",[COLOR goldenrod][I][B] BeIN Sports [/B][/I][/COLOR]
 http://50.7.69.186:1935/edge/_definst_/a1wn1j3ra1w0cv0/chunklist.m3u8?wowzasessionid=1419915335
@@ -592,6 +603,8 @@ http://live-streamtv.de/live/stream/playlist.m3u8?page_id=7&auth=f35885309d34b3e
 #EXTINF:-1 tvg-shift=-1 tvg-id="Capital TV" tvg-logo="capital.png" group-title="MUSIC",[COLOR teal][B][I] Capital TV [/B][/I][/COLOR]
 http://live-streamtv.de/live/stream/playlist.m3u8?page_id=7&auth=f35885309d34b3eaae3dd2b58c275017&c=capitaltv
 
+#EXTINF:-1 tvg-shift=-1 tvg-id="Capital TV" tvg-logo="capital.png" group-title="MUSIC",[COLOR teal][B][I] Capital TV HQ [/B][/I][/COLOR]
+http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/master.m3u8
 #EXTINF:-1 tvg-shift=-1 tvg-id="Channel AKA" group-title="MUSIC" tvg-logo="aka.png",[COLOR teal][B][I] Channel AKA [/B][/I][/COLOR]
 
 #EXTINF:-1 tvg-shift=-1 tvg-id="Clubland TV" tvg-logo="CLUBLAND.png" group-title="MUSIC",[COLOR teal][B][I] Clubland TV [/B][/I][/COLOR]
@@ -600,7 +613,7 @@ http://live-streamtv.de/live/stream/playlist.m3u8?page_id=7&auth=f35885309d34b3e
 http://200.76.77.237/LIVE/H01/CANAL726/PROFILE02.m3u8
 
 #EXTINF:-1 tvg-shift=-1 tvg-id="MTV Live" tvg-logo="mtvlive.png" group-title="MUSIC",[COLOR teal][B][I] MTV Live HD [/B][/I][/COLOR]
-http://200.76.77.237/LIVE/H01/CANAL701/PROFILE02.m3u8
+http://89.212.240.49:11980/live/smil:324_0.smil/playlist.m3u8?authorization_key&stream_id=0
 
 #EXTINF:-1 tvg-shift=-1 tvg-id="MTV HITS" tvg-logo="mtvhits.png" group-title="MUSIC",[COLOR teal][B][I] MTV Hits SD [/B][/I][/COLOR]
 http://hlsstr02.svc.iptv.rt.ru/hls/CH_MTVHITS/bw480000/playlist.m3u8?utcstart=1425964607.5274911
@@ -615,6 +628,9 @@ http://hlsstr02.svc.iptv.rt.ru/hls/CH_MTVROCKS/bw480000/playlist.m3u8?utcstart=1
 
 #EXTINF:-1 tvg-shift=-1 tvg-id="Heart TV" tvg-logo="HEART.png" group-title="MUSIC",[COLOR teal][B][I] Heart TV [/B][/I][/COLOR]
 http://live-streamtv.de/live/stream/playlist.m3u8?page_id=7&auth=f35885309d34b3eaae3dd2b58c275017&c=hearttv
+
+#EXTINF:-1 tvg-shift=-1 tvg-id="Heart TV" tvg-logo="HEART.png" group-title="MUSIC",[COLOR teal][B][I] Heart TV HQ [/B][/I][/COLOR]
+http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8
 
 #EXTINF:-1 tvg-shift=-1 tvg-id="Pop" tvg-logo="pop.png" group-title="MUSIC",[COLOR teal][B][I] Planet POP [/B][/I][/COLOR]
 http://live-streamtv.de/live/stream/playlist.m3u8?page_id=7&auth=f35885309d34b3eaae3dd2b58c275017&c=planetpop
@@ -655,6 +671,8 @@ http://167.114.65.74/hls/lt.m3u8
 http://66.90.111.66:1935/ctv/tom/waldo_paes.m3u8?
 #EXTINF:1, Tom & Jerry HQ
 http://goo.gl/K4vEBF
+#EXTINF:-1 tvg-id="Disney Jnr HD" tvg-logo="disneyjr.png" group-title="U.S.A",[COLOR silver][I][B] Disney Jnr [/COLOR][/I][/B]
+rtmp://cdn.totalplay.tv/stream playpath=z00089.stream swfUrl=http://imveoh.info/player/player.swf pageUrl=http://imveoh.info/embed.php?n=z00099 token=#ed%h0#w@1 timeout=10
 #EXTINF:-1 tvg-id="Nickelodeon" tvg-logo="nick.png" group-title="U.S.A",[COLOR silver][I][B] Nick Toons [/COLOR][/I][/B]
 rtmpe://l.mybeststream.xyz/r/ playpath=nickku459 swfUrl=http://mybeststream.xyz/NzJhYTQ5YTEzNjU4ZjEzZDRhMjUxNmQ4/jwplayer.flash.swf live=1swfVfy=1 pageUrl=http://mybeststream.xyz 
 #EXTINF:-1 tvg-id="Nickelodeon" tvg-logo="nick.png" group-title="U.S.A",[COLOR silver][I][B] Nick Toons [/COLOR][/I][/B]
@@ -666,3 +684,4 @@ rtmpe://46.246.124.22:1935/liveedge playpath=nnc pageUrl=http://www.hdcast.org/e
 rtmpe://46.246.124.22:1935/liveedge playpath=nicks pageUrl=http://www.hdcast.org/embedlive4.php?u=discoo&vw=620&vh=470&domain=usachannels.tv token=Fo5_n0w?U.rA6l3-70w47ch
 #EXTINF:-1 tvg-name="" tvg-logo=".png group-title="t&c", [COLOR hotpink][B] DONATIONS ARE WELCOMED & EVERY ONE WILL BE REWARDED SPECIAL CHANNELS PACKAGE :) [/COLOR][/B]
 rtmpe://46.246.124.22:1935/liveedge playpath=disco pageUrl=http://www.hdcast.org/embedlive4.php?u=discoo&vw=620&vh=470&domain=usachannels.tv token=Fo5_n0w?U.rA6l3-70w47ch
+
