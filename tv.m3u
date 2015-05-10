@@ -1,12 +1,12 @@
 #EXTM3U url-tvg=http://www.xmltvguide.info/iptv/guide.xml.gz m3uautoload=1 cache=0
 #EXTINF:-1,[COLOR purple][B]     --|XMLTVGUIDE.INFO|--[/B][/COLOR]
-rtmp://rtmp.zerocast.tv/live?t=xwqRhn5dC token=8964316ec8772dfa playpath=XTPSm5g5XoN37idvGgLv swfUrl=http://cdn.ibrod.tv/player.swf pageUrl=http://zerocast.tv/embed.php?a=10&id=&width=640&height=480&autostart=true&strech= --live
+rtmp://cdn.totalplay.tv/stream playpath=z00095.stream swfUrl=http://imveoh.info/player/player.swf pageUrl=http://imveoh.info/embed.php?n=z00099 token=#ed%h0#w@1 timeout=10
 #EXTINF:-1,[COLOR blue][B] --|IPTV WITH 7 DAY EPG|-- [/B][/COLOR]
-rtmp://rtmp.zerocast.tv/live?t=xwqRhn5dC token=8964316ec8772dfa playpath=dorfauda12 swfUrl=http://cdn.ibrod.tv/player.swf pageUrl=http://zerocast.tv/embed.php?a=10&id=&width=640&height=480&autostart=true&strech= --live
+rtmp://cdn.totalplay.tv/stream playpath=z00094.stream swfUrl=http://imveoh.info/player/player.swf pageUrl=http://imveoh.info/embed.php?n=z00099 token=#ed%h0#w@1 timeout=10
 #EXTINF:-1,[COLOR red][B]  --------- | U.S.A | --------- [/B][/COLOR]
-rtmp://rtmp.zerocast.tv/live?t=xwqRhn5dC token=8964316ec8772dfa playpath=cG0BKtbfd4PZkZ5WZoRC swfUrl=http://cdn.ibrod.tv/player.swf pageUrl=http://zerocast.tv/embed.php?a=10&id=&width=640&height=480&autostart=true&strech= --live
+rtmp://cdn.totalplay.tv/stream playpath=z00093.stream swfUrl=http://imveoh.info/player/player.swf pageUrl=http://imveoh.info/embed.php?n=z00099 token=#ed%h0#w@1 timeout=10
 #EXTINF:-1,[COLOR brown][B]  --|UPDATED 10/05/15|-- [/B][/COLOR]
-rtmp://rtmp.zerocast.tv/live?t=xwqRhn5dC token=8964316ec8772dfa playpath=espn swfUrl=http://cdn.ibrod.tv/player.swf flashver=WIN\202012,0,0,77 timeout=15 live=1swfVfy=1 pageUrl=http://zerocast.tv --live
+rtmp://cdn.totalplay.tv/stream playpath=z00092.stream swfUrl=http://imveoh.info/player/player.swf pageUrl=http://imveoh.info/embed.php?n=z00099 token=#ed%h0#w@1 timeout=10
 
 #EXTINF:-1 tvg-id="DE A&E " tvg-logo="a&e.png" group-title="U.S.A",[COLOR lightgreen][I][B] A&E Europe [/B][/I][/COLOR]
 http://noscdn1.connectedviews.com:1935/live/sporttv3hd.stream/livestream.m3u8
@@ -117,7 +117,7 @@ rtmp://178.18.31.55:443/liverepeater playpath=191916 swfUrl=http://bernardotv.cl
 rtmp://rtmp.zerocast.tv/live?t=xwqRhn5dC playpath=usa swfUrl=http://cdn.ibrod.tv/player.swf flashver=WIN\202012,0,0,77 timeout=15 token=8964316ec8772dfa live=1swfVfy=1 pageUrl=http://zerocast.tv/
 
 #EXTINF:-1 tvg-logo=".png" tvg-id="" group-title="U.S.A",[COLOR lightgreen][I][B] USA TV [/B][/I][/COLOR]
-rtmp://cdn.totalplay.tv/stream playpath=z00091.stream swfUrl=http://imveoh.info/player/player.swf pageUrl=http://imveoh.info/embed.php?n=z00099 token=#ed%h0#w@1 timeout=10
+rtmp://cdn.totalplay.tv/stream playpath=z00092.stream swfUrl=http://imveoh.info/player/player.swf pageUrl=http://imveoh.info/embed.php?n=z00099 token=#ed%h0#w@1 timeout=10
 
 
 #EXTINF:-1,[COLOR red][B]     --------- | U.K | --------  [/B][/COLOR]
@@ -221,29 +221,17 @@ http://live.zoptv.com/filmon/master.m3u8?id=101
 #EXTINF:-1 tvg-shift=-1 tvg-logo="itv4+1.png" tvg-id="ITV4+1" group-title="UK",[COLOR aqua][I][B] ITV4 +1 [/B][/I][/COLOR]
 http://live.zoptv.com/filmon/master.m3u8?id=1826
 
-#EXTINF:-1 tvg-shift=-1 tvg-logo="itvbe.png" tvg-id="ITV.be" tvg-name="ITV.be" group-title="UK",[COLOR aqua][I][B] ITVBe [/B][/I][/COLOR]
+#EXTINF:-1 tvg-shift=-1 tvg-logo="itvbe.png" tvg-id="ITVbe" tvg-name="ITVbe" group-title="UK",[COLOR aqua][I][B] ITVBe [/B][/I][/COLOR]
 http://live.zoptv.com/filmon/master.m3u8?id=3211
 
-#EXTINF:-1 tvg-shift=-1 tvg-id="Dave" tvg-logo="davehd.png" group-title="UK",[COLOR aqua][B][I] Dave [/I][/B][/COLOR]
+#EXTINF:-1 tvg-shift=-1 tvg-id="Dave" tvg-logo="dave.png" group-title="UK",[COLOR aqua][B][I] Dave [/I][/B][/COLOR]
 http://live.zoptv.com/filmon/master.m3u8?id=370
 
-#EXTINF:-1 tvg-shift=-1 tvg-id="Dave Ja Vu" tvg-logo="davejavu.png" group-title="UK",[COLOR aqua][B][I] Dave Ja Vu [/I][/B][/COLOR]
+#EXTINF:-1 tvg-shift=-1 tvg-id="Dave ja vu" tvg-logo="davejavu.png" group-title="UK",[COLOR aqua][B][I] Dave Ja Vu [/I][/B][/COLOR]
 http://laganvpn12.plus.com:9981/stream/channelid/47
-
-#EXTINF:-1 tvg-shift=-1 tvg-id="Discovery Channel" tvg-logo="discovery.png" group-title="UK",[COLOR orange][B][I] Discovery [/B][/I][/COLOR]
-
-#EXTINF:-1 tvg-shift=-1 tvg-id="Discovery Channel" tvg-logo="discovery.png" group-title="UK",[COLOR orange][B][I] Discovery +1 [/B][/I][/COLOR]
 
 #EXTINF:-1 tvg-shift=-1 tvg-id="Discovery Science" tvg-logo="science.png" group-title="UK",[COLOR aqua][B][I] Discovery Science [/B][/I][/COLOR]
 rtmp://199.59.88.39:1935/cam4-cr107 playpath=130 swfUrl=http://www.tv-msn.com/player/player.swf live=1 pageUrl=http://www.cdnbr.biz/mastertv/Discovery Science.html
-
-#EXTINF:-1 tvg-shift=-1 tvg-id="Discovery Turbo" tvg-logo="discoveryturbo.png" group-title="UK",[COLOR orange][B][I] Discovery Turbo [/B][/I][/COLOR]
-
-#EXTINF:-1 tvg-id="100022" tvg-logo="tlc.png" group-title="UK",[COLOR orange][B][I] TLC [/B][/I][/COLOR]
-
-#EXTINF:-1 tvg-id="223" tvg-logo="discoveryworld.png" group-title="UK",[COLOR orange][B][I] Discovery World [/B][/I][/COLOR]
-
-#EXTINF:-1 tvg-shift=-1 tvg-id="History" tvg-logo="history.png" group-title="UK",[COLOR orange][B][I] History UK [/B][/I][/COLOR]
 
 #EXTINF:-1 tvg-shift=-1 tvg-id="National Geographic" tvg-logo="natgeo.png" group-title="UK",[COLOR aqua][B][I] National Geographic [/B][/I][/COLOR]
 rtmpe://l.mybeststream.xyz/r/ playpath=natgeopt401 swfUrl=http://mybeststream.xyz/NzhlODRiZDYzY2EyZGVkNzZjMTQ5YjYz/jwplayer.flash.swf live=1 pageUrl=http://mybeststream.xyz/?id=28642&width=555&height=435
@@ -263,11 +251,20 @@ http://laganvpn12.plus.com:9981/stream/channelid/58
 #EXTINF:-1 tvg-shift=-1 tvg-logo="e4+1.png" tvg-id="E4 +1" group-title="U.K",[COLOR aqua][I][B] E4 +1 [/B][/I][/COLOR]
 http://laganvpn12.plus.com:9981/stream/channelid/23
 
-#EXTINF:-1 tvg-shift=-1 tvg-id="Film4 HD" tvg-logo="film4.png" group-title="UK",[COLOR aqua][B][I] Film4 [/B][/I][/COLOR]
+#EXTINF:-1 tvg-shift=-1 tvg-id="Film4 HD" tvg-logo="film4.png" group-title="UK",[COLOR aqua][B][I] Film4 HD [/B][/I][/COLOR]
 http://pebbles124-lh.akamaihd.net/i/film4_1@137790/master.m3u8|X-Forwarded-For=85.5.87.218
 
 #EXTINF:-1 tvg-shift=-1 tvg-id="Film4 HD" tvg-logo="film4.png" group-title="UK",[COLOR aqua][B][I] Film4 HD [/B][/I][/COLOR]
 http://live-streamtv.de/live/hlstv/edge/index.m3u8?page_id=16&auth=f35885309d34b3eaae3dd2b58c275017&c=film4
+
+#EXTINF:-1 tvg-id="" tvg-logo="discovery.png" group-title="UK",[COLOR aqua][B][I] Discovery HD [/B][/I][/COLOR]
+http://promo.dyndns.biz:8000/live/user163zh/401931/248.ts
+
+#EXTINF:-1 tvg-shift=-1 tvg-id="" tvg-logo="natgeo.png" group-title="UK",[COLOR aqua][B][I] National Geographic HD [/B][/I][/COLOR]
+http://promo.dyndns.biz:8000/live/user163zh/401931/226.ts
+
+#EXTINF:-1 tvg-shift=-1 tvg-id="" tvg-logo="natgeowild.png" group-title="UK",[COLOR aqua][B][I] National Geographic Wild HD [/B][/I][/COLOR]
+http://promo.dyndns.biz:8000/live/user163zh/401931/247.ts 
 
 #EXTINF:-1 tvg-shift=-1 tvg-id="Food Network" tvg-logo="foodnetwork.png" group-title="UK",[COLOR aqua][B][I] Food Network [/I][/B][/COLOR]
 http://live.zoptv.com/filmon/master.m3u8?id=20
@@ -278,7 +275,7 @@ http://live.zoptv.com/filmon/master.m3u8?id=851
 #EXTINF:-1 tvg-shift=-1 tvg-id="5USA" tvg-logo="5usa.png" group-title="UK",[COLOR aqua][B][I] 5USA [/I][/B][/COLOR]
 http://live.zoptv.com/filmon/master.m3u8?id=845
 
-#EXTINF:-1 tvg-shift=-1 tvg-id="Pick" tvg-logo="picktv.png" tvg-shift=-1 group-title="UK",[COLOR aqua][B][I] Pick TV [/B][/I][/COLOR]
+#EXTINF:-1 tvg-id="Pick" tvg-logo="picktv.png" group-title="UK",[COLOR aqua][B][I] Pick TV [/B][/I][/COLOR]
 http://live.zoptv.com/filmon/master.m3u8?id=371
 
 #EXTINF:-1 tvg-shift=-1 tvg-id="More4" tvg-logo="more4.png" group-title="UK",[COLOR aqua][B][I] 4-More [/B][/I][/COLOR]
@@ -296,10 +293,6 @@ http://laganvpn12.plus.com:9981/stream/channelid/19
 #EXTINF:-1 tvg-shift=-1 tvg-id="TrueEnt" tvg-logo="trueent.png" group-title="UK",[COLOR aqua][B][I] True Entertainment [/B][/I][/COLOR]
 http://laganvpn12.plus.com:9981/stream/channelid/67
 
-#EXTINF:-1 tvg-shift=-1 tvg-id="True Movies 1" tvg-logo="tm1.png" group-title="UK",[COLOR orange][B][I] True Movies 1 [/B][/I][/COLOR]
-
-#EXTINF:-1 tvg-shift=-1 tvg-id="True Movies 2" tvg-logo="tm1.png" group-title="UK",[COLOR orange][B][I] True Movies 2 [/B][/I][/COLOR]
-
 #EXTINF:-1 tvg-shift=-1 tvg-id="Horror Channel" tvg-logo="horror_channel.png" group-title="UK",[COLOR aqua][B][I] Horror Channel [/B][/I][/COLOR]
 http://live.zoptv.com/filmon/master.m3u8?id=836
 
@@ -309,7 +302,7 @@ http://laganvpn12.plus.com:9981/stream/channelid/15
 #EXTINF:-1 tvg-shift=-1 tvg-id="travelchannel +1" tvg-logo="travelchannel+1.png" group-title="UK",[COLOR aqua][B][I] Travel Channel +1 [/B][/I][/COLOR]
 http://live.zoptv.com/filmon/master.m3u8?id=842
 
-#EXTINF:-1 tvg-shift=-1 tvg-id="UK TruTV" tvg-logo="trutv.png" group-title="UK",[COLOR aqua][B][I] TruTV [/B][/I][/COLOR]
+#EXTINF:-1 tvg-shift=-2 tvg-id="UK TruTV" tvg-logo="trutv.png.png" group-title="UK",[COLOR aqua][B][I] TruTV [/B][/I][/COLOR]
 http://laganvpn12.plus.com:9981/stream/channelid/12
 
 #EXTINF:-1 tvg-shift=-1 tvg-id="Really" tvg-logo="really.png" group-title="UK",[COLOR aqua][B][I] Really [/B][/I][/COLOR]
@@ -564,13 +557,28 @@ http://ams-lp1.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/TSN3Open8
 http://ams-lp2.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/TSN4Open8.m3u8
 
 #EXTINF:-1 tvg-shift=-1 tvg-logo="tsn5.png" tvg-id="TSN5" group-title="SPORTS",[COLOR goldenrod][I][B] TSN 5 [/B][/I][/COLOR]
-http://ams-lp3.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/TSN5Open8.m3u8
+rtmp://178.18.31.62:443/liverepeater playpath=192234 swfUrl=http://bernardotv.club/playertest.swf pageUrl=http://biggestplayer.me/streamcr.php?id=192234&width=620&height=490 token=Fo5_n0w?U.rA6l3-70w47ch live=1 timeout=10
 
 #EXTINF:-1 tvg-shift=-1 tvg-logo="skysportsworldcup.png" tvg-id="Sky Sports World Cup HD" group-title="SPORTS",[COLOR goldenrod][I][B] Sky Sports World Cup [/B][/I][/COLOR]
 rtmp://195.154.242.42:80/liverepeater playpath=302538 swfUrl=http://cdn.goodcast.co/players.swf pageUrl=http://goodcast.co/streamn.php?id=302571&width=620&height=470 token=Fo5_n0w?U.rA6l3-70w47ch
 
 #EXTINF:-1 tvg-logo="wwe.png" tvg-name="" group-title="U.S.A",[COLOR goldenrod][I][B] WWE Tv [/B][/I][/COLOR]'
 rtmp://178.18.31.56:443/liverepeater playpath=191918 swfUrl=http://bernardotv.club/playertest.swf pageUrl=http://biggestplayer.me/index.php?id=191881&width=620&height=470 token=Fo5_n0w?U.rA6l3-70w47ch
+
+#EXTINF:-1 tvg-id="Fox Sports 1" tvg-logo="foxsports1.png" group-title="SPORTS" ,[B][I][COLOR goldenrod] Fox Sports 1 HD [/I][/B][/COLOR] 
+http://promo.dyndns.biz:8000/live/user163zh/401931/43.ts
+
+#EXTINF:-1 tvg-id="Fox Sports 2" tvg-logo="foxsports2.png" group-title="SPORTS" ,[B][I][COLOR goldenrod] Fox Sports 2 HD [/I][/B][/COLOR] 
+http://promo.dyndns.biz:8000/live/user163zh/401931/414.ts
+
+#EXTINF:-1 tvg-shift=-1 tvg-id="Sky Sports 1 HD" tvg-logo="skysports1.png" group-title="SPORTS",[COLOR goldenrod][I][B] Sky Sports 1 HD [/B][/I][/COLOR]
+http://promo.dyndns.biz:8000/live/user163zh/401931/41.ts
+
+#EXTINF:-1 tvg-shift=-1 tvg-id="Sky Sports 2" tvg-logo="skysports2.png" group-title="SPORTS",[COLOR goldenrod][I][B] Sky Sports 2 HD [/B][/I][/COLOR]
+http://promo.dyndns.biz:8000/live/user163zh/401931/249.ts
+
+#EXTINF:-1 tvg-shift=-1 tvg-id="Sky Sports 3 HD" tvg-logo="skysports3.png" group-title="SPORTS",[COLOR goldenrod][I][B] Sky Sports 3 HD [/B][/I][/COLOR]
+http://promo.dyndns.biz:8000/live/user163zh/401931/413.ts
 
 #EXTINF:-1, [COLOR red][B]  --------- ENGLISH-------  [/B][/COLOR]
 http://llnw.live.simplestream.com/coder1/coder.channels.channel2/hls/1/playlist.m3u8
@@ -716,4 +724,125 @@ rtmpe://46.246.124.22:1935/liveedge playpath=nnc pageUrl=http://www.hdcast.org/e
 rtmpe://46.246.124.22:1935/liveedge playpath=nicks pageUrl=http://www.hdcast.org/embedlive4.php?u=discoo&vw=620&vh=470&domain=usachannels.tv token=Fo5_n0w?U.rA6l3-70w47ch
 #EXTINF:-1 tvg-name="" tvg-logo=".png group-title="t&c", [COLOR hotpink][B] DONATIONS ARE WELCOMED & EVERY ONE WILL BE REWARDED SPECIAL CHANNELS PACKAGE :) [/COLOR][/B]
 rtmpe://46.246.124.22:1935/liveedge playpath=disco pageUrl=http://www.hdcast.org/embedlive4.php?u=discoo&vw=620&vh=470&domain=usachannels.tv token=Fo5_n0w?U.rA6l3-70w47ch
+
+#EXTINF:-1,[B][COLOR orange] ----- HD Cinima/Movies ----- [/B][/COLOR]
+http://promo.dyndns.biz:8000/live/user163zh/401931/14.ts
+#EXTINF:-1,[B][COLOR silver] Sky Cinema 1 HD [/B][/COLOR]
+http://promo.dyndns.biz:8000/live/user163zh/401931/14.ts
+#EXTINF:-1,[B][COLOR silver] Sky Cinema Hits HD [/B][/COLOR]
+http://promo.dyndns.biz:8000/live/user163zh/401931/409.ts 
+#EXTINF:-1,[B][COLOR silver] Sky Cinema Family HD [/B][/COLOR]
+http://promo.dyndns.biz:8000/live/user163zh/401931/405.ts 
+#EXTINF:-1,[B][COLOR silver] Sky Passion HD [/B][/COLOR]
+http://promo.dyndns.biz:8000/live/user163zh/401931/407.ts 
+#EXTINF:-1,[B][COLOR silver] Sky Cinema Max HD [/B][/COLOR]
+http://promo.dyndns.biz:8000/live/user163zh/401931/410.ts 
+#EXTINF:-1,[B][COLOR silver] Sky Comedy HD [/B][/COLOR]
+http://promo.dyndns.biz:8000/live/user163zh/401931/412.ts 
+#EXTINF:-1,[B][COLOR silver] Sky Cinema Cult HD [/B][/COLOR]
+http://promo.dyndns.biz:8000/live/user163zh/401931/406.ts 
+#EXTINF:-1,[B][COLOR silver] Sky Cinema Classics HD [/B][/COLOR]
+http://promo.dyndns.biz:8000/live/user163zh/401931/21.ts 
+
+ #EXTINF:-1,[B][COLOR orange] ----- HD Sport ----- [/B][/COLOR]
+http://promo.dyndns.biz:8000/live/user163zh/401931/101.ts
+#EXTINF:-1,[B][COLOR silver] Sky Sport 24 HD [/B][/COLOR]
+http://promo.dyndns.biz:8000/live/user163zh/401931/17.ts 
+#EXTINF:-1,[B][COLOR silver] Sky Sport Plus HD [/B][/COLOR]
+http://promo.dyndns.biz:8000/live/user163zh/401931/225.ts 
+#EXTINF:-1,[B][COLOR silver] Sky Sport F1 HD [/B][/COLOR]
+http://promo.dyndns.biz:8000/live/user163zh/401931/422.ts 
+#EXTINF:-1,[B][COLOR silver] Sky Sport GP HD [/B][/COLOR]
+http://promo.dyndns.biz:8000/live/user163zh/401931/415.ts 
+#EXTINF:-1,[B][COLOR silver] Eurosport HD [/B][/COLOR]
+http://promo.dyndns.biz:8000/live/user163zh/401931/230.ts 
+#EXTINF:-1,[B][COLOR silver] Eurosport 2 HD [/B][/COLOR]
+http://promo.dyndns.biz:8000/live/user163zh/401931/660.ts 
+
+#EXTINF:-1,[B][COLOR orange] ----- Football ----- [/B][/COLOR]
+http://promo.dyndns.biz:8000/live/user163zh/401931/102.ts 
+#EXTINF:-1,[B][COLOR silver] Sky SuperCalc HD [/B][/COLOR]
+http://promo.dyndns.biz:8000/live/user163zh/401931/223.ts 
+ #EXTINF:-1,[B][COLOR silver] Sky football 1 HD [/B][/COLOR]
+http://promo.dyndns.biz:8000/live/user163zh/401931/408.ts
+#EXTINF:-1,[B][COLOR silver] Sky football 2 HD [/B][/COLOR]
+http://promo.dyndns.biz:8000/live/user163zh/401931/656.ts 
+#EXTINF:-1,[B][COLOR silver] Sky football 3 HD [/B][/COLOR]
+http://promo.dyndns.biz:8000/live/user163zh/401931/22.ts 
+#EXTINF:-1,[B][COLOR silver] Sky football 4 HD [/B][/COLOR]
+http://promo.dyndns.biz:8000/live/user163zh/401931/425.ts 
+#EXTINF:-1,[B][COLOR silver] Sky football 5 [/B][/COLOR]
+http://promo.dyndns.biz:8000/live/user163zh/401931/661.ts 
+#EXTINF:-1,[B][COLOR silver] Sky football 6 [/B][/COLOR]
+http://promo.dyndns.biz:8000/live/user163zh/401931/658.ts 
+#EXTINF:-1,[B][COLOR silver] Sky football 7 [/B][/COLOR]
+http://promo.dyndns.biz:8000/live/user163zh/401931/659.ts 
+#EXTINF:-1,[B][COLOR silver] Premium football [/B][/COLOR]
+http://promo.dyndns.biz:8000/live/user163zh/401931/162.ts
+#EXTINF:-1,[B][COLOR silver] Premium football 1 [/B][/COLOR]
+http://promo.dyndns.biz:8000/live/user163zh/401931/163.ts 
+#EXTINF:-1,[B][COLOR silver] Premium football 2 [/B][/COLOR]
+http://promo.dyndns.biz:8000/live/user163zh/401931/164.ts 
+#EXTINF:-1,[B][COLOR silver] Premium football 3 [/B][/COLOR]
+http://promo.dyndns.biz:8000/live/user163zh/401931/165.ts
+#EXTINF:-1,[B][COLOR silver] Premium football 4 [/B][/COLOR]
+http://promo.dyndns.biz:8000/live/user163zh/401931/166.ts 
+#EXTINF:-1,[B][COLOR silver] Premium football 5 [/B][/COLOR]
+http://promo.dyndns.biz:8000/live/user163zh/401931/167.ts 
+#EXTINF:-1,[B][COLOR silver] Premium football 6 [/B][/COLOR]
+http://promo.dyndns.biz:8000/live/user163zh/401931/168.ts 
+#EXTINF:-1,[B][COLOR silver] Premium football 7 [/B][/COLOR]
+http://promo.dyndns.biz:8000/live/user163zh/401931/169.ts 
+
+#EXTINF:-1,[B][COLOR orange] ----- Entertainment ----- [/B][/COLOR]
+http://promo.dyndns.biz:8000/live/user163zh/401931/90.ts 
+#EXTINF:-1,[B][COLOR silver] Sky Uno HD [/B][/COLOR]
+http://promo.dyndns.biz:8000/live/user163zh/401931/404.ts
+#EXTINF:-1,[B][COLOR silver] Sky Atlantic HD [/B][/COLOR]
+http://promo.dyndns.biz:8000/live/user163zh/401931/222.ts 
+#EXTINF:-1,[B][COLOR silver] Axn HD [/B][/COLOR]
+http://promo.dyndns.biz:8000/live/user163zh/401931/42.ts
+#EXTINF:-1,[B][COLOR silver] Fox HD [/B][/COLOR]
+http://promo.dyndns.biz:8000/live/user163zh/401931/424.ts 
+#EXTINF:-1,[B][COLOR silver] Fox Life HD [/B][/COLOR]
+http://promo.dyndns.biz:8000/live/user163zh/401931/423.ts 
+#EXTINF:-1,[B][COLOR silver] Fox Crime HD [/B][/COLOR]
+http://promo.dyndns.biz:8000/live/user163zh/401931/427.ts 
+#EXTINF:-1,[B][COLOR silver] GamberoRosso HD [/B][/COLOR]
+http://promo.dyndns.biz:8000/live/user163zh/401931/411.ts
+#EXTINF:-1,[B][COLOR silver] Video Italia HD [/B][/COLOR]
+http://promo.dyndns.biz:8000/live/user163zh/401931/869.ts 
+
+#EXTINF:-1,[B][COLOR orange] ----- Culture ----- [/B][/COLOR]
+http://promo.dyndns.biz:8000/live/user163zh/401931/95.ts 
+#EXTINF:-1,[B][COLOR silver] Caccia e Pesca [/B][/COLOR]
+http://promo.dyndns.biz:8000/live/user163zh/401931/655.ts 
+
+#EXTINF:-1,[B][COLOR orange] ----- Cartoons ----- [/B][/COLOR]
+http://promo.dyndns.biz:8000/live/user163zh/401931/228.ts 
+#EXTINF:-1,[B][COLOR silver] Disney Channel HD [/B][/COLOR]
+http://promo.dyndns.biz:8000/live/user163zh/401931/224.ts 
+#EXTINF:-1,[B][COLOR silver] Cartoon Network - Premium [/B][/COLOR]
+http://promo.dyndns.biz:8000/live/user163zh/401931/174.ts
+
+#EXTINF:-1,[B][COLOR orange] ----- Premium Movies ----- [/B][/COLOR]
+http://promo.dyndns.biz:8000/live/user163zh/401931/88.ts 
+#EXTINF:-1,[B][COLOR silver] Premium Cinema [/B][/COLOR]
+http://promo.dyndns.biz:8000/live/user163zh/401931/26.ts 
+#EXTINF:-1,[B][COLOR silver] Premium Comedy [/B][/COLOR]
+http://promo.dyndns.biz:8000/live/user163zh/401931/172.ts 
+#EXTINF:-1,[B][COLOR silver] Studio Universal [/B][/COLOR]
+http://promo.dyndns.biz:8000/live/user163zh/401931/27.ts 
+#EXTINF:-1,[B][COLOR silver] Premium Crime [/B][/COLOR]
+http://promo.dyndns.biz:8000/live/user163zh/401931/33.ts 
+#EXTINF:-1,[B][COLOR silver] Premium Joi [/B][/COLOR]
+http://promo.dyndns.biz:8000/live/user163zh/401931/31.ts 
+#EXTINF:-1,[B][COLOR silver] Premium Mya [/B][/COLOR]
+http://promo.dyndns.biz:8000/live/user163zh/401931/32.ts 
+#EXTINF:-1,[B][COLOR silver] Premium  Emotion [/B][/COLOR]
+http://promo.dyndns.biz:8000/live/user163zh/401931/28.ts
+#EXTINF:-1,[B][COLOR silver] Premium  Energy [/B][/COLOR]
+http://promo.dyndns.biz:8000/live/user163zh/401931/29.ts 
+#EXTINF:-1,[B][COLOR silver] Premium Action [/B][/COLOR]
+http://promo.dyndns.biz:8000/live/user163zh/401931/173.ts
 
